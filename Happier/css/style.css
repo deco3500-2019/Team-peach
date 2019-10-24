@@ -1,0 +1,44 @@
+body{
+    background: #333333;
+    width:100%;
+    height:100%;
+    margin:0;
+}
+
+div{
+    width: 100%;
+}
+iframe{
+    left: 70%;
+    position :absolute;
+}
+
+#input0{
+    width : 10%;
+    height : 3%;
+    position : absolute;
+    left: 40%;
+    top: 12%;
+}
+
+#input{
+    width : 10%;
+    height : 5%;
+    position : absolute;
+    left: 40%;
+    top: 20%;
+}
+
+#input1{
+    color: white;
+    position : absolute;
+    left: 40%;
+    top: 8%;
+}
+
+#input2{
+    color: white;
+    position : absolute;
+    left: 40%;
+    top: 15%;
+}
