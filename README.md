@@ -1,18 +1,13 @@
+// WIKI Pages
 TeamProposal = "https://github.com/deco3500-2019/Team-peach/wiki/Team-Project-Proposal";
 
 DesignProgressOverview = "https://github.com/deco3500-2019/Team-peach/wiki/Design-Progress-Overview";
 
 FuturePlan&Feedback = "https://github.com/deco3500-2019/Team-peach/wiki/Future-Works-and-Feedbacks";
 
-Poster = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Poster.jpg";
+// Prototypes
 
-ReIdeationTest = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Reideation%20test.pdf";
-
-StandsUp = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Stands_up.pdf";
-
-IndividualDomainResearch = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Individual%20Domain%20Research.pdf";
-
-PaperPrototypeDocumentation = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Paper%20Prototype%20%26%20Description.pdf";
+Prototypes Link = "https://github.com/deco3500-2019/Team-peach/tree/master/Happier"             // index.html
 
 var InteractivePrototype = {
 
@@ -28,6 +23,18 @@ var HiFiprototype = {
     documentation: "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/High-Fidelity%20Prototype%20Description.pdf";
     
 }
+
+// Documentations
+
+Poster = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Poster.jpg";
+
+ReIdeationTest = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Reideation%20test.pdf";
+
+StandsUp = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Stands_up.pdf";
+
+IndividualDomainResearch = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Individual%20Domain%20Research.pdf";
+
+PaperPrototypeDocumentation = "https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Paper%20Prototype%20%26%20Description.pdf";
 
 var Evaluation = {
 
