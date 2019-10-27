@@ -1,6 +1,6 @@
 TeamProposal = "https://github.com/deco3500-2019/Team-peach/wiki/Team-Project-Proposal";
 
-DEsignProgressOverview = "https://github.com/deco3500-2019/Team-peach/wiki/Design-Progress-Overview";
+DesignProgressOverview = "https://github.com/deco3500-2019/Team-peach/wiki/Design-Progress-Overview";
 
 FuturePlan&Feedback = "https://github.com/deco3500-2019/Team-peach/wiki/Future-Works-and-Feedbacks";
 
