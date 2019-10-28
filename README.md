@@ -10,10 +10,15 @@ https://github.com/deco3500-2019/Team-peach/tree/master/Happier
 ### Instruction
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Interactive%20Prototype%20Documentation.pdf
 ### 2.2The high-fidelity prototype and instruction
-https://github.com/deco3500-2019/Team-peach/tree/master/Happier
-https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Interactive%20Prototype%20Documentation.pdf
+https://github.com/deco3500-2019/Team-peach/tree/master/File/High%20fidelity%20prototype
+
+https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/High-Fidelity%20Prototype%20Description.pdf
 ### 2.3 The low fedility prototype and instruction
+
+https://github.com/deco3500-2019/Team-peach/tree/master/File/File
+
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Paper%20Prototype%20%26%20Description.pdf
+
 
 ## 3 Project Overview
 https://github.com/deco3500-2019/Team-peach/wiki/Design-Process
