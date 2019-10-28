@@ -39,6 +39,9 @@ https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Reideation
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/The%20first%20evaluation.md
 
 ### individual domain research
+### the links
+https://github.com/deco3500-2019/Team-peach/tree/master/File/Poster
+### the findings
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Individual%20Domain%20Research.pdf
 
 ### high fidelity prototype evaluation
