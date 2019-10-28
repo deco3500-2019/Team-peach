@@ -16,7 +16,7 @@ https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Interactiv
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Paper%20Prototype%20%26%20Description.pdf
 
 ## 3 Project Overview
-https://github.com/deco3500-2019/Team-peach/wiki/Design-Progress-Overview"
+https://github.com/deco3500-2019/Team-peach/wiki/Design-Process
 
 ## 4 the design Process
 
