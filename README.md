@@ -35,16 +35,16 @@ https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Reideation
 
 ### 4.2 prototype iteration
 
-### paper prototype evaluation
+### 4.2.1 paper prototype evaluation
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/The%20first%20evaluation.md
 
-### individual domain research
-### the links
+### 4.2.2 individual domain research
+### the posters links
 https://github.com/deco3500-2019/Team-peach/tree/master/File/Poster
 ### the findings
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Individual%20Domain%20Research.pdf
 
-### high fidelity prototype evaluation
+### 4.2.3 high fidelity prototype evaluation
 
 https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/The%20second%20evaluation.md
 
