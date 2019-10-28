@@ -43,7 +43,7 @@ https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/Individual
 
 ### high fidelity prototype evaluation
 
-https://drive.google.com/open?id=1gNKehTXg6emrJ_yUZSG87Z1dyK_gLZQOc6c8VcL3hCM
+https://github.com/deco3500-2019/Team-peach/blob/master/Documnetaries/The%20second%20evaluation.md
 
 
 ## 5 Response to the stand-ups
